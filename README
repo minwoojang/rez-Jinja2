@@ -1,0 +1,8 @@
+rez --version
+Rez 2.114.1 from /cocoa/inhouse/tool/rez/lib/python3.7/site-packages/rez
+(python 3.7)
+
+
+setup
+
+rez-build -i
